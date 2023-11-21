@@ -1,0 +1,148 @@
+{
+    "CabinetMembers": [
+        {
+            "position": "President",
+            "position_dv": "ރައީސުލްޖުމްހޫރިއްޔާ",
+            "minister_en": "Dr Mohamed Muizzu",
+            "minister_dv": "ޑރ މުހައްމަދު މުއިއްޒު"
+        },
+        {
+            "position": "Vice President",
+            "position_dv": "ނާއިބްރައީސް",
+            "minister_en": "Hussain Mohamed Latheef",
+            "minister_dv": "ޙުސައިން މުޙައްމަދު ލަޠީފް"
+        },
+        {
+            "position": "Minister of Defence",
+            "position_dv": "ދިފާއީ ވުޒާރާ",
+            "minister_en": "Mohamed Ghassan Maumoon",
+            "minister_dv": "މުޙައްމަދު ޣައްސާން މައުމޫން"
+        },
+        {
+            "position": "Minister of Foreign Affairs",
+            "position_dv": "ހާރިޖީ ވުޒާރާ",
+            "minister_en": "Moosa Zameer",
+            "minister_dv": "މޫސާ ޒަމީރު"
+        },
+        {
+            "position": "Minister of Homeland Security and Technology",
+            "position_dv": "ދާހިލީ ސަލާމަތާއި ފަންނިއްޔާތާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Ali Ihusaan",
+            "minister_dv": "ޢަލީ އިޙްސާން"
+        },
+        {
+            "position": "Minister of Finance",
+            "position_dv": "މާލީ ވުޒާރާ",
+            "minister_en": "Dr. Mohamed Shafeeq",
+            "minister_dv": "ޑރ މުޙައްމަދު ޝަފީޤް"
+        },
+        {
+            "position": "Minister of Education",
+            "position_dv": "ތައުލީމީ ވުޒާރާ",
+            "minister_en": "Dr. Ismail Shafeeu",
+            "minister_dv": "ޑރ އިސްމާޢީލް ޝަފީޢު"
+        },
+        {
+            "position": "Minister of Health",
+            "position_dv": "ސިއްހީ ވުޒާރާ",
+            "minister_en": "Dr. Abdulla Khaleel",
+            "minister_dv": "ޑރ ޢަބްދުﷲ ޚަލީލް"
+        },
+        {
+            "position": "Minister of Economic Development and Trade",
+            "position_dv": "އިގްތިސޯދީ ތަރައްގީއާއި ވިޔަފާރިއާ ބެހޭ",
+            "minister_en": "Mohamed Saeed",
+            "minister_dv": "މުޙައްމަދު ސަޢީދު"
+        },
+        {
+            "position": "Minister of Fisheries and Ocean Resources",
+            "position_dv": "މަސްވެރިކަމާއި ކަނޑުގެ ވަސީލަތްތަކާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Ahmed Shiyam",
+            "minister_dv": "އަޙްމަދު ޝިޔާމް"
+        },
+        {
+            "position": "Attorney General",
+            "position_dv": "ބަންޑާރަ ނައިބުގެ އޮފީސް",
+            "minister_en": "Uz. Ahmed Usham",
+            "minister_dv": "އަލްއުސްތާޛު އަޙްމަދު އުޝާމް"
+        },
+        {
+            "position": "Minister of Islamic Affairs",
+            "position_dv": "އިސްލާމީކަންތައްތަކާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Mohamed Shaheem Ali Saeed",
+            "minister_dv": "ޑރ މުޙައްމަދު ޝަހީމް ޢަލީ ސަޢީދު"
+        },
+        {
+            "position": "Minister of Tourism",
+            "position_dv": "ފަތުރުވެރިކަމާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Ibrahim Faisal",
+            "minister_dv": "އިބްރާހީމް ފައިޞަލް"
+        },
+        {
+            "position": "Minister of Social and Family Development",
+            "position_dv": "އިޖުތިމާއީ އަދި އާއިލީ ތަރައްގީއާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Aishath Shiham",
+            "minister_dv": "ޑރ ޢާއިޝަތު ޝިހާމް"
+        },
+        {
+            "position": "Minister of Sports, Fitness and Recreation",
+            "position_dv": "ކުޅިވަރާއި ހަށިހެޔޮކަމާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Abdulla Rafiu",
+            "minister_dv": "ޢަބްދުﷲ ރާފިޢު"
+        },
+        {
+            "position": "Minister of Climate Change, Environment and Energy",
+            "position_dv": "މޫސުމީ ބަދަލުތަކާއި ތިމާވެއްޓާއި ހަކަތައާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Thoriq Ibrahim",
+            "minister_dv": "ޠާރިޤު އިބްރާހީމް"
+        },
+        {
+            "position": "Minister of Housing, Land and Urban Development",
+            "position_dv": "ގެދޮރުވެރިކަމާއި ބިމާއި އުމްރާނީ ތަރައްގީއާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Ali Haidar Ahmed",
+            "minister_dv": "ޑރ ޢަލީ ހައިދަރު އަޙްމަދު"
+        },
+        {
+            "position": "Minister of Transport and Civil Aviation",
+            "position_dv": "ދަތުރުފަތުރާއި މަދަނީ އުދުހުންތަކާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Mohamed Ameen",
+            "minister_dv": "މުޙައްމަދު އަމީން"
+        },
+        {
+            "position": "Minister of Dhivehi Language, Culture and Heritage",
+            "position_dv": "ދިވެހިބަހާއި ސަގާފަތާއި ތަރިކައާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Adam Naseer Ibrahim",
+            "minister_dv": "އާދަމް ނަޞީރު އިބްރާހީމް"
+        },
+        {
+            "position": "Minister of Higher Education, Labour and Skills Development",
+            "position_dv": "މަތީ ތަޢުލީމާއި މަސައްކަތްތެރިކަމާއި ހުނަރުތައް ތަރައްޤީކުރުމާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Maryam Mariya",
+            "minister_dv": "ޑރ މަރްޔަމް މާރިޔާ"
+        },
+        {
+            "position": "Minister of Construction and Infrastructure",
+            "position_dv": "އިމާރާތްކުރުމާއި ބިނާރާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Abdulla Muththalib",
+            "minister_dv": "ޑރ ޢަބްދުﷲ މުއްޠަލިބް"
+        },
+        {
+            "position": "Minister of Agriculture and Animal Welfare",
+            "position_dv": "ދަނޑުވެރިކަމާއި ދިރޭތަކެއްޗާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Dr. Aishath Rameela",
+            "minister_dv": "ޑރ ޢާއިޝަތު ރަމީލާ"
+        },
+        {
+            "position": "Minister of Youth Empowerment, Information and Arts",
+            "position_dv": "ޒުވާނުން ބާރުވެރިކުރުވުމާއި، މައުލޫމާތާއި ފަންނާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Ibrahim Waheed",
+            "minister_dv": "އިބްރާހީމް ވަޙީދު"
+        },
+        {
+            "position": "Minister of Cities, Local Government and Public Works",
+            "position_dv": "ސިޓީތަކާއި އިދާރީ ދާއިރާތައް ހިންގުމާއި، އާންމު މަސައްކަތްތަކާ ބެހޭ ވުޒާރާ",
+            "minister_en": "Adam Shareef",
+            "minister_dv": "އާދަމް ޝަރީފް"
+        }
+    ]
+}

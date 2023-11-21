@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "urls": [
+      "https://presidency.gov.mv/Government/Officials/141",
+      "https://presidency.gov.mv/Government/Officials/195"
+    ],
+    "updatedOn": "2023-11-21T06:03:18.613Z",
+    "recordCount": 1,
+    "description": "Deputy Ministers of the Maldives"
+  },
+  "data": [
+    {
+      "ministry": "MINISTRY OF FOREIGN AFFAIRS",
+      "officials": [
+        {
+          "position_en": "Deputy Minister of Foreign Affairs",
+          "name_en": "Fathimath Inaya",
+          "position_dv": "މިނިސްޓަރ އޮފް ފޮރިން އެފެއާޒްގެ ނައިބު",
+          "name_dv": "ފާޠިމަތު ޢިނާޔާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329310_75751ea3-c_.JPG"
+        }
+      ]
+    }
+  ]
+}

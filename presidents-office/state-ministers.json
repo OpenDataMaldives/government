@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "urls": [
+      "https://presidency.gov.mv/Government/Officials/17",
+      "https://presidency.gov.mv/Government/Officials/62"
+    ],
+    "updatedOn": "2023-11-21T06:03:18.733Z",
+    "recordCount": 14,
+    "description": "State Ministers of the maldives"
+  },
+  "data": [
+    {
+      "position_en": "Secretary to the President on Corporate Services, The President's Office",
+      "name_en": "Hussain Amir",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ކޯޕަރޭޓް ސަރވިސަސް، ރައީސުލްޖުމްހޫރިއްޔާގެ އޮފީސް",
+      "name_dv": "ޙުސައިން ޢާމިރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328881_5b5c2e01-f_.jpg"
+    },
+    {
+      "position_en": "Secretary to the President on Legal Affairs, The President's Office",
+      "name_en": "Uz. Abbas Shareef",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ލީގަލް އެފެއާޒް، ރައީސުލްޖުމްހޫރިއްޔާގެ އޮފީސް",
+      "name_dv": "އަލްއުސްތާޛު ޢައްބާސް ޝަރީފު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328883_560f530e-9_.jpg"
+    },
+    {
+      "position_en": "Secretary to the President on Public Policy, The President's Office",
+      "name_en": "Dr. Aishath Ikram",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ޕަބްލިކް ޕޮލިސީ",
+      "name_dv": "ޑޮކްޓަރ ޢާއިޝަތު އިކްރާމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328884_d2eafdcf-0_.jpg"
+    },
+    {
+      "position_en": "Chief of Staff at the Official Residence of the Vice President",
+      "name_en": "Mohamed Waheedh Hassan",
+      "position_dv": "ޗީފް އޮފް ސްޓާފް އެޓް ދަ ވައިސް ޕްރެޒިޑެންޓްސް ރެޒިޑެންސް",
+      "name_dv": "މުޙައްމަދު ވަޙީދު ޙަސަން",
+      "photoUrl": "/Images/silhouette.jpg"
+    },
+    {
+      "position_en": "Ambassador at-Large of the Ministry of Foreign Affairs",
+      "name_en": "Dr. Ali Naseer Mohamed",
+      "position_dv": "އެމްބެސެޑަރ އެޓް ލާޖް އޮފް ދަ މިނިސްޓްރީ އޮފް ފޮރިން އެފެއާޒް",
+      "name_dv": "ޑޮކްޓަރ ޢަލީ ނަޞީރު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328976_500d8cd9-d_.jpg"
+    },
+    {
+      "position_en": "Minister of State for Foreign Affairs",
+      "name_en": "Mohamed Shahudy",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފޮރިން އެފެއާޒް",
+      "name_dv": "މުޙައްމަދު ޝަހުދީ",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328992_69809c6f-9_.jpg"
+    },
+    {
+      "position_en": "Minister of State for Foreign Affairs",
+      "name_en": "Mohamed Fahmy Hassan",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފޮރިން އެފެއާޒް",
+      "name_dv": "މުޙައްމަދު ފަހުމީ ޙަސަން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329391_3e337f2d-e_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Homeland Security and Technology",
+      "name_en": "Dr Mohamed Kinaanath",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހޯމް ލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީ",
+      "name_dv": "ޑޮކްޓަރ މުޙައްމަދު ކިނާނަތު",
+      "photoUrl": "/Images/silhouette.jpg"
+    },
+    {
+      "position_en": "Controller General of Immigration",
+      "name_en": "Mohamed Shamman Waheedh",
+      "position_dv": "ކޮންޓްރޯލަރ ޖެނެރަލް އޮފް އިމިގްރޭޝަން",
+      "name_dv": "މުޙައްމަދު ޝަމްޢާން ވަޙީދު",
+      "photoUrl": "/Images/silhouette.jpg"
+    },
+    {
+      "position_en": "Commissioner of Prisons",
+      "name_en": "Hassan Zareer",
+      "position_dv": "ކޮމިޝަނަރ އޮފް ޕްރިޒަންސް",
+      "name_dv": "ޙަސަން ޒަރީރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329395_474864e5-f_.JPG"
+    },
+    {
+      "position_en": "Commissioner General of Customs",
+      "name_en": "Yoosuf Maaniu Mohamed",
+      "position_dv": "ކޮމިޝަނަރ ޖެނެރަލް އޮފް ކަސްޓަމްސް",
+      "name_dv": "ޔޫސުފް މާނިޢު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329398_0b1ac2db-c_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Sports, Fitness and Recreation",
+      "name_en": "Ibrahim Amir",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަން",
+      "name_dv": "އިބްރާހީމް ޢާމިރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329393_bd44ee14-2_.JPG"
+    },
+    {
+      "position_en": "Chief of Defence Force",
+      "name_en": "Major General Abdul Raheem Abdul Latheef",
+      "position_dv": "ޗީފް އޮފް ޑިފެންސް ފޯސް",
+      "name_dv": "މޭޖަރ ޖެނެރަލް ޢަބްދުއްރަޙީމް ޢަބްދުއްލަޠީފް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329082_73b36bf7-3_.jpg"
+    },
+    {
+      "position_en": "Minister of State at the President's Official Residence",
+      "name_en": "Uz. Fathimath Shamnaz Ali Saleem",
+      "position_dv": "ރައީސުލްޖުމްހޫރިއްޔާގެ ރަސްމީގޭގެ ސްޓޭޓް މިނިސްޓަރ",
+      "name_dv": "އަލްއުސްތާޛާ ފާޠިމަތު ޝަމްނާޒް ޢަލީ ސަލީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329394_e2b830cf-4_.JPG"
+    }
+  ]
+}
