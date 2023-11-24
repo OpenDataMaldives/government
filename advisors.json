@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "urls": [
+      "https://presidency.gov.mv/Government/Officials/285",
+      "https://presidency.gov.mv/Government/Officials/286"
+    ],
+    "updatedOn": "2023-11-24T03:33:29.684Z",
+    "recordCount": 2,
+    "description": "Advisors to the President of the Maldives"
+  },
+  "data": [
+    {
+      "position_en": "Principal Advisor to the President on Trade and Investment",
+      "name_en": "Mohamed Ali Janah",
+      "position_dv": "ޕްރިންސިޕަލް އެޑްވައިޒަރ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ޓްރޭޑް އެންޑް އިންވެސްޓްމަންޓް",
+      "name_dv": "މުޙައްމަދު ޢަލީ ޖަނާޙް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329402_dd399b3e-7_.jpg"
+    },
+    {
+      "position_en": "Advisor to the President on Tourism Development",
+      "name_en": "Mohamed Khaleel",
+      "position_dv": "އެޑްވައިޒަރ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ޓޫރިޒަމް ޑިވެލޮޕްމަންޓް",
+      "name_dv": "މުޙައްމަދު ޚަލީލް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329403_0ecf6177-6_.jpg"
+    }
+  ]
+}
