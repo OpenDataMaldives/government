@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "urls": [
+      "https://presidency.gov.mv/Government/Officials/141",
+      "https://presidency.gov.mv/Government/Officials/195"
+    ],
+    "updatedOn": "2023-11-24T03:33:29.719Z",
+    "recordCount": 2,
+    "description": "Deputy Ministers of the maldives"
+  },
+  "data": [
+    {
+      "ministry": "The President's Office",
+      "officials": [
+        {
+          "position_en": "Senior Under Secretary",
+          "name_en": "Dr. Isaam Mohamed",
+          "position_dv": "ސީނިއަރ އަންޑަރ ސެކްރެޓެރީ",
+          "name_dv": "ޑޮކްޓަރ ޢިޞާމް މުޙައްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330727_2e4af989-1_.JPG"
+        },
+        {
+          "position_en": "Senior Under Secretary",
+          "name_en": "Dr. Moosa Fathee",
+          "position_dv": "ސީނިއަރ އަންޑަރ ސެކްރެޓެރީ",
+          "name_dv": "ޑޮކްޓަރ މޫސާ ފަތުޙީ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330368_cbfc46b1-6_.JPG"
+        },
+        {
+          "position_en": "Senior Under Secretary",
+          "name_en": "Mohamed Hunaif",
+          "position_dv": "ސީނިއަރ އަންޑަރ ސެކްރެޓެރީ",
+          "name_dv": "މުޙައްމަދު ޙުނައިފް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330728_86f9578c-f_.JPG"
+        },
+        {
+          "position_en": "Under Secretary for Presidential Affairs",
+          "name_en": "Neema Ali",
+          "position_dv": "އަންޑަރ ސެކްރެޓެރީ ފޮރ ޕްރެޒިޑެންޝަލް އެފެއާޒް",
+          "name_dv": "ނީމާ ޢަލީ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330729_fd047562-e_.JPG"
+        },
+        {
+          "position_en": "Under Secretary for Public Policy",
+          "name_en": "Uz. Mohamed Firzul Abdulla Khaleel",
+          "position_dv": "އަންޑަރ ސެކްރެޓެރީ ފޮރ ޕަބްލިކް ޕޮލިސީ",
+          "name_dv": "އަލްއުސްތާޛު މުޙައްމަދު ފިރުޒުލް ޢަބްދުﷲ ޚަލީލް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329143_4e1e1b7e-7_.jpg"
+        },
+        {
+          "position_en": "Under Secretary to the Vice President",
+          "name_en": "Saaif Ahmed",
+          "position_dv": "އަންޑަރ ސެކްރެޓެރީ ޓު ދަ ވައިސް ޕްރެޒިޑެންޓް",
+          "name_dv": "ޞާއިފް އަޙްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329315_d4a97828-7_.jpg"
+        },
+        {
+          "position_en": "Under Secretary for Strategic Communication",
+          "name_en": "Mohamed Ikram Abdul Latheef",
+          "position_dv": "އަންޑަރ ސެކްރެޓެރީ ފޮރ ސްޓްރެޓީޖިކް ކޮމިއުނިކޭޝަން",
+          "name_dv": "މުޙައްމަދު އިކްރާމް ޢަބްދުއްލަޠީފް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330732_cb8d06f0-f_.jpg"
+        }
+      ]
+    },
+    {
+      "ministry": "MINISTRY OF FOREIGN AFFAIRS",
+      "officials": [
+        {
+          "position_en": "Deputy Minister of Foreign Affairs",
+          "name_en": "Fathimath Inaya",
+          "position_dv": "މިނިސްޓަރ އޮފް ފޮރިން އެފެއާޒްގެ ނައިބު",
+          "name_dv": "ފާޠިމަތު ޢިނާޔާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329310_75751ea3-c_.JPG"
+        }
+      ]
+    }
+  ]
+}
