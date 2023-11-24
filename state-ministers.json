@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "urls": [
+      "https://presidency.gov.mv/Government/Officials/17",
+      "https://presidency.gov.mv/Government/Officials/62"
+    ],
+    "updatedOn": "2023-11-24T03:33:30.122Z",
+    "recordCount": 50,
+    "description": "State Ministers of the maldives"
+  },
+  "data": [
+    {
+      "position_en": "Secretary to the President on Corporate Services, The President's Office",
+      "name_en": "Hussain Amir",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ކޯޕަރޭޓް ސަރވިސަސް، ރައީސުލްޖުމްހޫރިއްޔާގެ އޮފީސް",
+      "name_dv": "ޙުސައިން ޢާމިރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328881_5b5c2e01-f_.jpg"
+    },
+    {
+      "position_en": "Secretary to the President on Legal Affairs, The President's Office",
+      "name_en": "Uz. Abbas Shareef",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ލީގަލް އެފެއާޒް، ރައީސުލްޖުމްހޫރިއްޔާގެ އޮފީސް",
+      "name_dv": "އަލްއުސްތާޛު ޢައްބާސް ޝަރީފު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328883_560f530e-9_.jpg"
+    },
+    {
+      "position_en": "Secretary to the President on Public Policy, The President's Office",
+      "name_en": "Dr. Aishath Ikram",
+      "position_dv": "ސެކްރެޓެރީ ޓު ދަ ޕްރެޒިޑެންޓް އޮން ޕަބްލިކް ޕޮލިސީ",
+      "name_dv": "ޑޮކްޓަރ ޢާއިޝަތު އިކްރާމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328884_d2eafdcf-0_.jpg"
+    },
+    {
+      "position_en": "Chief of Staff at the Official Residence of the Vice President",
+      "name_en": "Mohamed Waheedh Hassan",
+      "position_dv": "ޗީފް އޮފް ސްޓާފް އެޓް ދަ ވައިސް ޕްރެޒިޑެންޓްސް ރެޒިޑެންސް",
+      "name_dv": "މުޙައްމަދު ވަޙީދު ޙަސަން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330725_a717fbdd-8_.JPG"
+    },
+    {
+      "position_en": "Special Envoy for Climate Change",
+      "name_en": "Ali Shareef",
+      "position_dv": "ސްޕެޝަލް އެންވޯއީ ފޮރ ކްލައިމެޓް ޗޭންޖް",
+      "name_dv": "ޢަލީ ޝަރީފް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330364_3d789309-3_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Defence",
+      "name_en": "Muaz Haleem",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ޑިފެންސް",
+      "name_dv": "މުޢާޛު ޙަލީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330286_2653542d-9_.JPG"
+    },
+    {
+      "position_en": "Ambassador at-Large of the Ministry of Foreign Affairs",
+      "name_en": "Dr. Ali Naseer Mohamed",
+      "position_dv": "އެމްބެސެޑަރ އެޓް ލާޖް އޮފް ދަ މިނިސްޓްރީ އޮފް ފޮރިން އެފެއާޒް",
+      "name_dv": "ޑޮކްޓަރ ޢަލީ ނަޞީރު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328976_500d8cd9-d_.jpg"
+    },
+    {
+      "position_en": "Minister of State for Foreign Affairs",
+      "name_en": "Mohamed Shahudy",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފޮރިން އެފެއާޒް",
+      "name_dv": "މުޙައްމަދު ޝަހުދީ",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/328992_69809c6f-9_.jpg"
+    },
+    {
+      "position_en": "Minister of State for Foreign Affairs",
+      "name_en": "Mohamed Fahmy Hassan",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފޮރިން އެފެއާޒް",
+      "name_dv": "މުޙައްމަދު ފަހުމީ ޙަސަން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329391_3e337f2d-e_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Homeland Security and Technology",
+      "name_en": "Dr Mohamed Kinaanath",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހޯމް ލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީ",
+      "name_dv": "ޑޮކްޓަރ މުޙައްމަދު ކިނާނަތު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330734_fee1a321-c_.jpeg"
+    },
+    {
+      "position_en": "Controller General of Immigration",
+      "name_en": "Mohamed Sham’aan Waheed",
+      "position_dv": "ކޮންޓްރޯލަރ ޖެނެރަލް އޮފް އިމިގްރޭޝަން",
+      "name_dv": "މުޙައްމަދު ޝަމްޢާން ވަޙީދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330726_50fc8683-6_.JPG"
+    },
+    {
+      "position_en": "Commissioner of Prisons",
+      "name_en": "Hassan Zareer",
+      "position_dv": "ކޮމިޝަނަރ އޮފް ޕްރިޒަންސް",
+      "name_dv": "ޙަސަން ޒަރީރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329395_474864e5-f_.JPG"
+    },
+    {
+      "position_en": "Commissioner General of Customs",
+      "name_en": "Yoosuf Maaniu Mohamed",
+      "position_dv": "ކޮމިޝަނަރ ޖެނެރަލް އޮފް ކަސްޓަމްސް",
+      "name_dv": "ޔޫސުފް މާނިޢު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330733_e601efff-0_.jpg"
+    },
+    {
+      "position_en": "Minister of State for Homeland Security and Technology",
+      "name_en": "Uza Lubna Mohamed Zahir",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީ",
+      "name_dv": "އަލްއުސްތާޛާ ލުބްނާ މުޙައްމަދު ޒާހިރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330366_3e5cf4c0-4_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Finance",
+      "name_en": "Hussain Sham Adam",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފިނޭންސް",
+      "name_dv": "ޙުސައިން ޝާމް އާދަމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330287_cfdd6ca1-8_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Finance",
+      "name_en": "Ahmed Mazin",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފިނޭންސް",
+      "name_dv": "އަޙްމަދު މާޒިން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330288_12c035bb-3_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Education",
+      "name_en": "Dr Ahmed Mohamed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ އެޑިޔުކޭޝަން",
+      "name_dv": "ޑޮކްޓަރ އަޙްމަދު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330289_0a649329-e_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Education",
+      "name_en": "Dr Abdul Latheef Mohamed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ އެޑިޔުކޭޝަން",
+      "name_dv": "ޑޮކްޓަރ ޢަބްދުއްލަޠީފް މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330290_dddadc53-2_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Health",
+      "name_en": "Khadeeja Abdul Samad Abdulla",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހެލްތް",
+      "name_dv": "ޚަދީޖާ ޢަބްދުއްޞަމަދު ޢަބްދުﷲ",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330291_908db490-d_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Health",
+      "name_en": "Ismail Abdulla",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހެލްތް",
+      "name_dv": "އިސްމާޢީލް ޢަބްދުﷲ",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330292_af2ef670-b_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Health",
+      "name_en": "Ahmed Gasim",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހެލްތް",
+      "name_dv": "އަޙްމަދު ޤާސިމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330293_7b7044b2-4_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Economic Development and Trade",
+      "name_en": "Mohamed Thariq Ahmed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ އިކޮނޮމިކް ޑިވެލޮޕްމަންޓް އެންޑް ޓްރޭޑް",
+      "name_dv": "މުޙައްމަދު ޠާރިޤް އަޙްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330369_73b5d0c2-7_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Fisheries and Ocean Resources",
+      "name_en": "Dr Amzath Ahmed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ފިޝަރީޒް އެންޑް އޯޝަން ރިސޯސަސް",
+      "name_dv": "ޑޮކްޓަރ ޢަމްޒަތު އަޙްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330371_417371fe-9_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Islamic Affairs",
+      "name_en": "Dr Mohamed Shujau Abdul Hakeem",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ އިސްލާމިކް އެފެއާޒް",
+      "name_dv": "ޑޮކްޓަރ މުޙައްމަދު ޝުޖާޢު ޢަބްދުލްހަކީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330294_5891be2d-8_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Social and Family Development",
+      "name_en": "Aminath Hussain Shareef",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސޯޝަލް އެންޑް ފެމިލީ ޑިވެލޮޕްމަންޓް",
+      "name_dv": "އާމިނަތު ޙުސައިން ޝަރީފް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330296_f5368c0a-0_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Sports, Fitness and Recreation",
+      "name_en": "Ibrahim Amir",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަން",
+      "name_dv": "އިބްރާހީމް ޢާމިރު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329393_bd44ee14-2_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Sports, Fitness and Recreation",
+      "name_en": "Mohamed Riyaz",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަން",
+      "name_dv": "މުޙައްމަދު ރިޔާޟް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330311_7fde3754-8_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Sports, Fitness and Recreation",
+      "name_en": "Abdul Razak Ibrahim",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަން",
+      "name_dv": "ޢަބްދުއްރައްޒާޤު އިބްރާހީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330372_38e95593-1_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Housing, Land and Urban Development",
+      "name_en": "Hussain Imran Abdul Muhaimin",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓް",
+      "name_dv": "ޙުސައިން ޢިމްރާން ޢަބްދުލްމުހައިމިން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330304_99e5145c-b_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Housing, Land and Urban Development",
+      "name_en": "Mohamed Faiz",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓް",
+      "name_dv": "މުޙައްމަދު ފާއިޒް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330310_73479729-2_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Housing, Land and Urban Development",
+      "name_en": "Ibrahim Nizam",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓް",
+      "name_dv": "އިބްރާހީމް ނިޡާމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330309_f0c887e3-f_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Housing, Land and Urban Development",
+      "name_en": "Mohamed Dilshan Abdulla",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓް",
+      "name_dv": "މުޙައްމަދު ދިލްޝާން ޢަބްދުﷲ",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330303_c652a50f-8_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Dhivehi Language, Culture and Heritage",
+      "name_en": "Ahmed Salim",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ދިވެހި ލެންގުއޭޖް، ކަލްޗަރ އެންޑް ހެރިޓޭޖް",
+      "name_dv": "އަޙްމަދު ސާލިމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330305_908b8db7-1_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Dhivehi Language, Culture and Heritage",
+      "name_en": "Mohamed Shahuruzziyad",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ދިވެހި ލެންގުއޭޖް، ކަލްޗަރ އެންޑް ހެރިޓޭޖް",
+      "name_dv": "މުޙައްމަދު ޝަހުރުއްޛިޔާދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330373_47d8bd6d-d_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Higher Education, Labour and Skills Development",
+      "name_en": "Mariyam Fizaana Rashyd",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހަޔަރ އެޑިއުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓް",
+      "name_dv": "މަރްޔަމް ފިޒާނާ ރަޝީދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330374_89658907-2_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Higher Education, Labour and Skills Development",
+      "name_en": "Dr Abdul Raheem Hasan",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހަޔަރ އެޑިއުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓް",
+      "name_dv": "ޑޮކްޓަރ ޢަބްދުއްރަޙީމް ޙަސަން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330380_252c9a09-1_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Higher Education, Labour and Skills Development",
+      "name_en": "Fathimath Mohamed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހަޔަރ އެޑިއުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓް",
+      "name_dv": "ފާޠިމަތު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330375_69d16791-6_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Higher Education, Labour and Skills Development",
+      "name_en": "Ahmed Shafeeu",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ހަޔަރ އެޑިއުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓް",
+      "name_dv": "އަޙްމަދު ޝަފީޢު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330376_5e136cfc-0_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Construction and Infrastructure",
+      "name_en": "Ibrahim Thoaam Mohamed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރ",
+      "name_dv": "އިބްރާހީމް ޠަޢާމު މުޙައްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330300_e82f05e3-0_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Construction and Infrastructure",
+      "name_en": "Ibrahim Nazeem",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރ",
+      "name_dv": "އިބްރާހީމް ނަޡީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330299_517cc83f-e_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Construction and Infrastructure",
+      "name_en": "Ismail Hameed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރ",
+      "name_dv": "އިސްމާޢީލް ޙަމީދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330298_d1858043-c_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Construction and Infrastructure",
+      "name_en": "Hassan Rasheed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރ",
+      "name_dv": "ޙަސަން ރަޝީދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330306_d7a1b683-0_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Agriculture and Animal Welfare",
+      "name_en": "Mariyam Vishama Ahmed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ އެގްރިކަލްޗަރ އެންޑް އެނިމަލް ވެލްފެއަރ",
+      "name_dv": "މަރްޔަމް ވިޝާމާ އަޙްމަދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330302_2fb5ee7a-c_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Youth Empowerment, Information and Arts",
+      "name_en": "Ahmed Munaz",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ޔޫތު އެމްޕަވަރމަންޓް، އިންފޮމޭޝަން އެންޑް އާޓްސް",
+      "name_dv": "އަޙްމަދު މުނާޒު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330379_93085a5b-d_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Cities, Local Government and Public Works",
+      "name_en": "Mohamed Rafeeq Hassan",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވާރކްސް",
+      "name_dv": "މުޙައްމަދު ރަފީޤު ޙަސަން",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330308_bb40877a-8_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Cities, Local Government and Public Works",
+      "name_en": "Uz Moosa Fathuhee Adam",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވާރކްސް",
+      "name_dv": "އަލްއުސްތާޛު މޫސާ ފަތުޙީ އާދަމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330297_81a04273-e_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Cities, Local Government and Public Works",
+      "name_en": "Ahmed Rasheed",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވާރކްސް",
+      "name_dv": "އަޙްމަދު ރަޝީދު",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330307_e6dba6e0-6_.JPG"
+    },
+    {
+      "position_en": "Minister of State for Cities, Local Government and Public Works",
+      "name_en": "Mohamed Ibrahim",
+      "position_dv": "މިނިސްޓަރ އޮފް ސްޓޭޓް ފޮރ ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވަރކްސް",
+      "name_dv": "މުޙައްމަދު އިބްރާހީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/330378_e4036671-6_.JPG"
+    },
+    {
+      "position_en": "Chief of Defence Force",
+      "name_en": "Major General Abdul Raheem Abdul Latheef",
+      "position_dv": "ޗީފް އޮފް ޑިފެންސް ފޯސް",
+      "name_dv": "މޭޖަރ ޖެނެރަލް ޢަބްދުއްރަޙީމް ޢަބްދުއްލަޠީފް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329082_73b36bf7-3_.jpg"
+    },
+    {
+      "position_en": "Minister of State at the President's Official Residence",
+      "name_en": "Uz. Fathimath Shamnaz Ali Saleem",
+      "position_dv": "ރައީސުލްޖުމްހޫރިއްޔާގެ ރަސްމީގޭގެ ސްޓޭޓް މިނިސްޓަރ",
+      "name_dv": "އަލްއުސްތާޛާ ފާޠިމަތު ޝަމްނާޒް ޢަލީ ސަލީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329394_e2b830cf-4_.JPG"
+    }
+  ]
+}
