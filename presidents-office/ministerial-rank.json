@@ -4,8 +4,7 @@
       "https://presidency.gov.mv/Government/Officials/145",
       "https://presidency.gov.mv/Government/Officials/194"
     ],
-    "updatedOn": "2023-11-25T13:54:32.269Z",
-    "recordCount": 15,
+    "recordCount": 17,
     "description": "Ministerial Rank Officials of the Maldives"
   },
   "data": [
@@ -108,11 +107,25 @@
       "photoUrl": "/Images/silhouette.jpg"
     },
     {
+      "position_en": "Head Imaam of the Islamic Centre",
+      "name_en": "Sheikh Mohamed Latheef",
+      "position_dv": "އިސްލާމީ މަރްކަޒުގެ އިސް އިމާމު",
+      "name_dv": "ފަޟީލަތުއްޝެއިޚް މުޙައްމަދު ލަޠީފް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331070_adc72b4e-e_.JPG"
+    },
+    {
+      "position_en": "Commissioner of Sports",
+      "name_en": "Mohamed Tholal",
+      "position_dv": "ކޮމިޝަނަރ އޮފް ސްޕޯޓްސް",
+      "name_dv": "މުޙައްމަދު ޠަލާލް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331069_5e52a424-b_.JPG"
+    },
+    {
       "position_en": "Chancellor, Maldives National University",
       "name_en": "Dr Mahmoodh Shaugy",
       "position_dv": "ދިވެހިރާއްޖޭގެ ޤައުމީ ޔުނިވަރސިޓީގެ ޗާންސެލަރ",
       "name_dv": "ޑޮކްޓަރ މަޙްމޫދު ޝައުޤީ",
-      "photoUrl": "/Images/silhouette.jpg"
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331068_8037b011-f_.jpg"
     }
   ]
 }
