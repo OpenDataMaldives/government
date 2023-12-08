@@ -4,7 +4,7 @@
       "https://presidency.gov.mv/Government/Officials/17",
       "https://presidency.gov.mv/Government/Officials/62"
     ],
-    "recordCount": 49,
+    "recordCount": 50,
     "description": "State Ministers of the maldives"
   },
   "data": [
@@ -343,6 +343,13 @@
       "position_dv": "ޗީފް އޮފް ޑިފެންސް ފޯސް",
       "name_dv": "މޭޖަރ ޖެނެރަލް ޢަބްދުއްރަޙީމް ޢަބްދުއްލަޠީފް",
       "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/329082_73b36bf7-3_.jpg"
+    },
+    {
+      "position_en": "Chief Executive Officer at Dharumavantha Hospital",
+      "name_en": "Ibrahim Abdul Razzaq Haleem",
+      "position_dv": "ދަރުމަވަންތަ ހޮސްޕިޓަލުގެ ޗީފް އެގްޒެކެޓިވް އޮފިސަރ",
+      "name_dv": "އިބްރާހީމް ޢަބްދުއްރައްޒާޤު ޙަލީމް",
+      "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331850_7302f5dc-c_.JPG"
     },
     {
       "position_en": "Minister of State at the President's Official Residence",
