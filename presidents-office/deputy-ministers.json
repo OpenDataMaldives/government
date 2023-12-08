@@ -4,7 +4,7 @@
       "https://presidency.gov.mv/Government/Officials/141",
       "https://presidency.gov.mv/Government/Officials/195"
     ],
-    "recordCount": 19,
+    "recordCount": 21,
     "description": "Deputy Ministers of the maldives"
   },
   "data": [
@@ -67,6 +67,13 @@
       "officials": [
         {
           "position_en": "Deputy Minister of Foreign Affairs",
+          "name_en": "Aminath Rana Hussain Shiham",
+          "position_dv": "މިނިސްޓަރ އޮފް ފޮރިން އެފެއާޒްގެ ނައިބު",
+          "name_dv": "އާމިނަތު ރަނާ ޙުސައިން ޝިހާމް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331858_9c14fa07-d_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Foreign Affairs",
           "name_en": "Fathimath Inaya",
           "position_dv": "މިނިސްޓަރ އޮފް ފޮރިން އެފެއާޒްގެ ނައިބު",
           "name_dv": "ފާޠިމަތު ޢިނާޔާ",
@@ -77,20 +84,6 @@
     {
       "ministry": "MINISTRY OF HOMELAND SECURITY AND TECHNOLOGY",
       "officials": [
-        {
-          "position_en": "Deputy Minister of Homeland Security and Technology",
-          "name_en": "Uz Hassaan Hameed",
-          "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
-          "name_dv": "އަލްއުސްތާޛު ޙައްސާނު ޙަމީދު",
-          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331440_ba1f90c2-4_.jpg"
-        },
-        {
-          "position_en": "Deputy Minister of Homeland Security and Technology",
-          "name_en": "Ahmed Aly",
-          "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
-          "name_dv": "އަޙްމަދު ޢާލީ",
-          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331417_39c5a7c7-0_.JPG"
-        },
         {
           "position_en": "Deputy Minister of Homeland Security and Technology",
           "name_en": "Hussain Zeenee",
@@ -107,6 +100,27 @@
         },
         {
           "position_en": "Deputy Minister of Homeland Security and Technology",
+          "name_en": "Uz Hassaan Hameed",
+          "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
+          "name_dv": "އަލްއުސްތާޛު ޙައްސާނު ޙަމީދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331440_ba1f90c2-4_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Homeland Security and Technology",
+          "name_en": "Mohamed Rishmee",
+          "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
+          "name_dv": "މުޙައްމަދު ރިޝްމީ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331854_8e26e91f-f_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Homeland Security and Technology",
+          "name_en": "Ahmed Aly",
+          "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
+          "name_dv": "އަޙްމަދު ޢާލީ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331417_39c5a7c7-0_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Homeland Security and Technology",
           "name_en": "Amaany Mohamed",
           "position_dv": "މިނިސްޓަރ އޮފް ހޯމްލޭންޑް ސެކިއުރިޓީ އެންޑް ޓެކްނޯލޮޖީގެ ނައިބު",
           "name_dv": "އަމާނީ މުޙައްމަދު",
@@ -117,6 +131,13 @@
     {
       "ministry": "MINISTRY OF FINANCE",
       "officials": [
+        {
+          "position_en": "Deputy Minister of Finance",
+          "name_en": "Ahmed Saaid Musthafa",
+          "position_dv": "މިނިސްޓަރ އޮފް ފިނޭންސްގެ ނައިބު",
+          "name_dv": "އަޙްމަދު ސާއިދު މުޞްތަފާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331864_b16b734b-0_.JPG"
+        },
         {
           "position_en": "Deputy Minister of Finance",
           "name_en": "Ahmed Aiman",
@@ -135,12 +156,47 @@
           "position_dv": "މިނިސްޓަރ އޮފް އެޑިޔުކޭޝަންގެ ނައިބު",
           "name_dv": "ސުލްޠާން ރާމިޒް",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331404_cbc9da89-5_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Education",
+          "name_en": "Aminath Maria",
+          "position_dv": "މިނިސްޓަރ އޮފް އެޑިޔުކޭޝަންގެ ނައިބު",
+          "name_dv": "އާމިނަތު މާރިޔާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331999_f1d6f2e9-6_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Education",
+          "name_en": "Shajah Firaaq",
+          "position_dv": "މިނިސްޓަރ އޮފް އެޑިޔުކޭޝަންގެ ނައިބު",
+          "name_dv": "ޝަޖާޙު ފިރާޤު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332009_ce906dc9-f_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Education",
+          "name_en": "Aminath Muna",
+          "position_dv": "މިނިސްޓަރ އޮފް އެޑިޔުކޭޝަންގެ ނައިބު",
+          "name_dv": "އާމިނަތު މުނާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332362_2b754d8b-c_.jpeg"
+        },
+        {
+          "position_en": "Deputy Minister of Education",
+          "name_en": "Aminath Nazima",
+          "position_dv": "މިނިސްޓަރ އޮފް އެޑިޔުކޭޝަންގެ ނައިބު",
+          "name_dv": "އާމިނަތު ނާޡިމާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331998_38bf9a94-9_.jpg"
         }
       ]
     },
     {
       "ministry": "MINISTRY OF HEALTH",
       "officials": [
+        {
+          "position_en": "Deputy Minister of Health",
+          "name_en": "Ali Nasir",
+          "position_dv": "މިނިސްޓަރ އޮފް ހެލްތުގެ ނައިބު",
+          "name_dv": "ޢަލީ ނާޞިރު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331997_1385cf7a-7_.jpg"
+        },
         {
           "position_en": "Deputy Minister of Health",
           "name_en": "Uz Ismail Zahir",
@@ -188,10 +244,24 @@
       "officials": [
         {
           "position_en": "Deputy Minister of Fisheries and Ocean Resources",
+          "name_en": "Ahmed Shafiu",
+          "position_dv": "މިނިސްޓަރ އޮފް ފިޝަރީޒް އެންޑް އޯޝަން ރިސޯސަސްގެ ނައިބު",
+          "name_dv": "އަޙްމަދު ޝާފިޢު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331856_7c911724-0_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Fisheries and Ocean Resources",
           "name_en": "Uza Shafeega Naeem",
           "position_dv": "މިނިސްޓަރ އޮފް ފިޝަރީޒް އެންޑް އޯޝަން ރިސޯސަސްގެ ނައިބު",
           "name_dv": "އަލްއުސްތާޛާ ޝަފީޤާ ނަޢީމް",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331435_800bbcbd-c_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Fisheries and Ocean Resources",
+          "name_en": "Hammadh Abdul Kareem",
+          "position_dv": "މިނިސްޓަރ އޮފް ފިޝަރީޒް އެންޑް އޯޝަން ރިސޯސަސްގެ ނައިބު",
+          "name_dv": "ޙައްމާދު ޢަބްދުލްކަރީމް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331852_bb4a5a76-0_.JPG"
         }
       ]
     },
@@ -200,17 +270,24 @@
       "officials": [
         {
           "position_en": "Deputy Minister of Islamic Affairs",
-          "name_en": "Sheikh Usam Mohamed Saeed",
-          "position_dv": "މިނިސްޓަރ އޮފް އިސްލާމިކް އެފެއާޒްގެ ނައިބު",
-          "name_dv": "އައްޝައިޚް އުސާމް މުޙައްމަދު ސަޢީދު",
-          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331437_6e563a06-7_.jpg"
-        },
-        {
-          "position_en": "Deputy Minister of Islamic Affairs",
           "name_en": "Hawwa Latheef",
           "position_dv": "މިނިސްޓަރ އޮފް އިސްލާމިކް އެފެއާޒްގެ ނައިބު",
           "name_dv": "ޙައްވާ ލަޠީފް",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331405_060295fc-b_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Islamic Affairs",
+          "name_en": "Sheikh Mutheeu Ismail Mohamed",
+          "position_dv": "މިނިސްޓަރ އޮފް އިސްލާމިކް އެފެއާޒްގެ ނައިބު",
+          "name_dv": "އައްޝައިޚް މުޠީޢު އިސްމާޢީލް މުޙައްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331863_1cf6fc7c-6_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Islamic Affairs",
+          "name_en": "Sheikh Usam Mohamed Saeed",
+          "position_dv": "މިނިސްޓަރ އޮފް އިސްލާމިކް އެފެއާޒްގެ ނައިބު",
+          "name_dv": "އައްޝައިޚް އުސާމް މުޙައްމަދު ސަޢީދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331437_6e563a06-7_.jpg"
         },
         {
           "position_en": "Deputy Minister of Islamic Affairs",
@@ -237,12 +314,54 @@
           "position_dv": "މިނިސްޓަރ އޮފް ޓޫރިޒަމްގެ ނައިބު",
           "name_dv": "އިބްރާހީމް ޔޫސޫފްފުޅު",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331439_44bc273f-7_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Tourism",
+          "name_en": "Nashima Abdul Latheef",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓޫރިޒަމްގެ ނައިބު",
+          "name_dv": "ނާޝިމާ ޢަބްދުއްލަޠީފް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332363_9936a362-d_.jpeg"
+        },
+        {
+          "position_en": "Deputy Minister of Tourism",
+          "name_en": "Ibrahim Suood",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓޫރިޒަމްގެ ނައިބު",
+          "name_dv": "އިބްރާހީމް ސުޢޫދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332164_4e72bd33-3_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Tourism",
+          "name_en": "Ashhad Saeed",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓޫރިޒަމްގެ ނައިބު",
+          "name_dv": "އަޝްހަދު ސަޢީދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332003_edde3e4a-2_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Tourism",
+          "name_en": "Ahmed Maais",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓޫރިޒަމްގެ ނައިބު",
+          "name_dv": "އަޙްމަދު މާއިސް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332360_c81905cb-2_.jpeg"
         }
       ]
     },
     {
       "ministry": "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT",
       "officials": [
+        {
+          "position_en": "Deputy Minister of Social and Family Development",
+          "name_en": "Hasma Hassan Maniku",
+          "position_dv": "މިނިސްޓަރ އޮފް ސޯޝަލް އެންޑް ފެމިލީ ޑިވެލޮޕްމަންޓްގެ ނައިބު",
+          "name_dv": "ޙަޞްމާ ޙަސަންމަނިކު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332000_9b82b18d-4_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Social and Family Development",
+          "name_en": "Aminath Ismail",
+          "position_dv": "މިނިސްޓަރ އޮފް ސޯޝަލް އެންޑް ފެމިލީ ޑިވެލޮޕްމަންޓްގެ ނައިބު",
+          "name_dv": "އާމިނަތު އިސްމާޢީލް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332037_d9162b50-5_.jpg"
+        },
         {
           "position_en": "Deputy Minister of Social and Family Development",
           "name_en": "Abdulla Rasheed",
@@ -278,6 +397,13 @@
         },
         {
           "position_en": "Deputy Minister of Sports, Fitness and Recreation",
+          "name_en": "Aishath Nazima",
+          "position_dv": "މިނިސްޓަރ އޮފް ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަންގެ ނައިބު",
+          "name_dv": "ޢާއިޝަތު ނާޡިމާ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331996_448adc6f-4_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Sports, Fitness and Recreation",
           "name_en": "Hussain Shifaz",
           "position_dv": "މިނިސްޓަރ އޮފް ސްޕޯޓްސް، ފިޓްނަސް އެންޑް ރެކްރިއޭޝަންގެ ނައިބު",
           "name_dv": "ޙުސައިން ޝިފާޒް",
@@ -286,27 +412,53 @@
       ]
     },
     {
-      "ministry": "MINISTRY OF HOUSING, LAND AND URBAN DEVELOPMENT",
+      "ministry": "MINISTRY OF CLIMATE CHANGE, ENVIRONMENT AND ENERGY",
       "officials": [
         {
-          "position_en": "Deputy Minister of Housing, Land and Urban Development",
-          "name_en": "Uz Zaaid Ahmed",
-          "position_dv": "މިނިސްޓަރ އޮފް ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓްގެ ނައިބު",
-          "name_dv": "އަލްއުސްތާޛު ޒާއިދު އަޙްމަދު",
-          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331424_de251dea-c_.JPG"
-        },
+          "position_en": "Deputy Minister of Climate Change, Environment and Energy",
+          "name_en": "Hassaan Mohamed",
+          "position_dv": "މިނިސްޓަރ އޮފް ކްލައިމެޓް ޗޭންޖް، އެންވަޔަރަންމަންޓް އެންޑް އެނަރޖީގެ ނައިބު",
+          "name_dv": "ޙައްސާނު މުޙައްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331865_8f65fcdf-6_.JPG"
+        }
+      ]
+    },
+    {
+      "ministry": "MINISTRY OF HOUSING, LAND AND URBAN DEVELOPMENT",
+      "officials": [
         {
           "position_en": "Deputy Minister of Housing, Land and Urban Development",
           "name_en": "Azhar Abdulla Saeed",
           "position_dv": "މިނިސްޓަރ އޮފް ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓްގެ ނައިބު",
           "name_dv": "އަޒުހަރު ޢަބްދުﷲ ސަޢީދު",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331443_76255696-4_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Housing, Land and Urban Development",
+          "name_en": "Uz Zaaid Ahmed",
+          "position_dv": "މިނިސްޓަރ އޮފް ހައުސިންގ، ލޭންޑް އެންޑް އަރބަން ޑިވެލޮޕްމަންޓްގެ ނައިބު",
+          "name_dv": "އަލްއުސްތާޛު ޒާއިދު އަޙްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331424_de251dea-c_.JPG"
         }
       ]
     },
     {
       "ministry": "MINISTRY OF TRANSPORT AND CIVIL AVIATION",
       "officials": [
+        {
+          "position_en": "Deputy Minister of Transport and Civil Aviation",
+          "name_en": "Hassan Zihan",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓްރާންސްޕޯޓް އެންޑް ސިވިލް އޭވިއޭޝަންގެ ނައިބު",
+          "name_dv": "ޙަސަން ޛިހާން",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331851_e33cb8d3-2_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Transport and Civil Aviation",
+          "name_en": "Ibrahim Yasir",
+          "position_dv": "މިނިސްޓަރ އޮފް ޓްރާންސްޕޯޓް އެންޑް ސިވިލް އޭވިއޭޝަންގެ ނައިބު",
+          "name_dv": "އިބްރާހީމް ޔާސިރު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332006_8021d7b7-1_.jpg"
+        },
         {
           "position_en": "Deputy Minister of Transport and Civil Aviation",
           "name_en": "Mohamed Awadh Ayaz",
@@ -337,6 +489,20 @@
           "position_dv": "މިނިސްޓަރ އޮފް ހަޔަރ އެޑިޔުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓްގެ ނައިބު",
           "name_dv": "ޛޫޝާން ކަމާލުއްދީން",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331413_7202e381-c_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Higher Education, Labour and Skills Development",
+          "name_en": "Aminath Nada Mohamed",
+          "position_dv": "ިނިސްޓަރ އޮފް ހަޔަރ އެޑިޔުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓްގެ ނައިބު",
+          "name_dv": "އާމިނަތު ނަދާ މުޙައްމަދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332165_5610ce4d-f_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Higher Education, Labour and Skills Development",
+          "name_en": "Aminath Shashee",
+          "position_dv": "މިނިސްޓަރ އޮފް ހަޔަރ އެޑިޔުކޭޝަން، ލޭބަރ އެންޑް ސްކިލްސް ޑިވެލޮޕްމަންޓްގެ ނައިބު",
+          "name_dv": "އާމިނަތު ޝަޝީ",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332036_5db87499-0_.jpg"
         }
       ]
     },
@@ -352,6 +518,13 @@
         },
         {
           "position_en": "Deputy Minister of Construction and Infrastructure",
+          "name_en": "Ali Saleem",
+          "position_dv": "މިނިސްޓަރ އޮފް ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރގެ ނައިބު",
+          "name_dv": "ޢަލީ ސަލީމް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331857_fd5e0d8d-4_.JPG"
+        },
+        {
+          "position_en": "Deputy Minister of Construction and Infrastructure",
           "name_en": "Fathmath Ifasha",
           "position_dv": "މިނިސްޓަރ އޮފް ކޮންސްޓްރަކްޝަން އެންޑް އިންފްރާސްޓްރަކްޗަރގެ ނައިބު",
           "name_dv": "ފާޠިމަތު އިފާޝާ",
@@ -360,14 +533,40 @@
       ]
     },
     {
+      "ministry": "MINISTRY OF AGRICULTURE AND ANIMAL WELFARE",
+      "officials": [
+        {
+          "position_en": "Deputy Minister of Agriculture and Animal Welfare",
+          "name_en": "Ahmed Adnan",
+          "position_dv": "މިނިސްޓަރ އޮފް އެގްރިކަލްޗަރ އެންޑް އެނިމަލް ވެލްފެއަރގެ ނައިބު",
+          "name_dv": "އަޙްމަދު ޢަދުނާން",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331853_1b5c9f53-3_.JPG"
+        }
+      ]
+    },
+    {
       "ministry": "MINISTRY OF YOUTH EMPOWERMENT, INFORMATION AND ARTS",
       "officials": [
+        {
+          "position_en": "Deputy Minister of Youth Empowerment, Information and Arts",
+          "name_en": "Mohamed Nafiz",
+          "position_dv": "މިނިސްޓަރ އޮފް ޔޫތު އެމްޕަވަރމަންޓް، އިންފޮމޭޝަން އެންޑް އާޓްސްގެ ނައިބު",
+          "name_dv": "މުޙައްމަދު ނާފިޛު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331855_5a1a321b-8_.JPG"
+        },
         {
           "position_en": "Deputy Minister of Youth Empowerment, Information and Arts",
           "name_en": "Malsha Shareef",
           "position_dv": "މިނިސްޓަރ އޮފް ޔޫތު އެމްޕަވަރމަންޓް، އިންފޮމޭޝަން އެންޑް އާޓްސްގެ ނައިބު",
           "name_dv": "މަލްޝާ ޝަރީފް",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331419_f9d91c09-4_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Youth Empowerment, Information and Arts",
+          "name_en": "Uz. Abdulla Mahzoom Majid",
+          "position_dv": "މިނިސްޓަރ އޮފް ޔޫތު އެމްޕަވަރމަންޓް، އިންފޮމޭޝަން އެންޑް އާޓްސްގެ ނައިބު",
+          "name_dv": "އަލްއުސްތާޛު ޢަބްދުﷲ މަޙްޒޫމް މާޖިދު",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332361_a12f9127-8_.jpeg"
         },
         {
           "position_en": "Deputy Minister of Youth Empowerment, Information and Arts",
@@ -387,6 +586,13 @@
           "position_dv": "މިނިސްޓަރ އޮފް ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވާރކްސްގެ ނައިބު",
           "name_dv": "ޢަލީ ޝަމީމް",
           "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/331426_1bc3a0eb-b_.jpg"
+        },
+        {
+          "position_en": "Deputy Minister of Cities, Local Government and Public Works",
+          "name_en": "Ibrahim Fayaz",
+          "position_dv": "މިނިސްޓަރ އޮފް ސިޓީސް، ލޯކަލް ގަވަރންމަންޓް އެންޑް ޕަބްލިކް ވާރކްސްގެ ނައިބު",
+          "name_dv": "އިބްރާހީމް ފަޔާޟް",
+          "photoUrl": "https://storage.googleapis.com/presidency.gov.mv/Photos/332004_19028038-1_.jpg"
         },
         {
           "position_en": "Deputy Minister of Cities, Local Government and Public Works",
